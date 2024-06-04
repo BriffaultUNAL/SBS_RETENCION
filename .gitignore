@@ -1,0 +1,6 @@
+venv
+__pycache__
+*7__pycache__
+shared/
+config_files/
+data/
